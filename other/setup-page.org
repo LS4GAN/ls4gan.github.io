@@ -1,0 +1,2 @@
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://ls4gan.github.io/other/darksun/css/htmlize.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://ls4gan.github.io/other/darksun/css/darksun.css"/>
