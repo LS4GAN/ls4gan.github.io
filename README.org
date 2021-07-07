@@ -11,3 +11,9 @@ See:
 - Documentation :: https://ls4gan.readthedocs.io.
 - Source :: https://github.com/LS4GAN/ls4gan-python
 - Web site :: https://ls4gan.github.io/ls4gan-python
+
+* LS4GAN toyzero
+
+Center for an initial "toy" experiment
+
+- Web site :: https://ls4gan.github.io/toyzero
