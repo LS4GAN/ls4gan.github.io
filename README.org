@@ -2,18 +2,24 @@
 #+EXPORT_FILE_NAME: index.html
 #+setupfile: other/setup-page.org
 
-This is currently a place holder.
+Landing page for LS4GAN online resources 
 
-* LS4GAN Python
+* toyzero
 
-See:
+- Source ::  https://github.com/LS4GAN/toyzero
+- Web site :: https://ls4gan.github.io/toyzero
 
-- Documentation :: https://ls4gan.readthedocs.io.
+* Containers
+
+- Source ::  https://github.com/LS4GAN/containers
+- Web site :: https://ls4gan.github.io/containers
+
+* Python
+
+- Documentation :: https://ls4gan.readthedocs.io
 - Source :: https://github.com/LS4GAN/ls4gan-python
 - Web site :: https://ls4gan.github.io/ls4gan-python
 
-* LS4GAN toyzero
+* Learning
 
-Center for an initial "toy" experiment
-
-- Web site :: https://ls4gan.github.io/toyzero
+- https://github.com/LS4GAN/awesome-GAN-papers
